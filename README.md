@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bharatsingh04/bharatsingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 💫 Hi,I'm Bharat Singh! 👋
+👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida<br>
+💭 Currently learning Java And Data Structures!<br/>
+📫 How to reach me er.bharatsingh76@gmail.com
+
+
